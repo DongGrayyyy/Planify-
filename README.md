@@ -19,13 +19,13 @@ Planify Mobile App
 * HTML, CSS and JS
 
 # Home Screen
-<img src="assets/Screenshot/S1.png">  
+<img src="assets/image/screenshots/HomeScreen.jpg">  
 
 # Sign Up Screen
-<img src="assets/Screenshot/S2.png">  
+<img src="assets/image/screenshots/SignIn.jpg">  
 
 # Sign In Screen
-<img src="assets/Screenshot/S3.png">  
+<img src="assets/image/screenshots/SignUp.jpg">  
 
 # Tabs Screen
-<img src="assets/Screenshot/S4.png">  
+<img src="assets/image/screenshots/Tabs.jpg">  
