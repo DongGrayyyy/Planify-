@@ -1,11 +1,11 @@
-# TechFolio Hub
-TechFolio Mobile App.
+# Planify.
+Planify Mobile App
 
 # Features
-* Share Projects
-* Message other developers
-* Rate others work
-* Search other developers
+* Schedule of Events 
+* Choosing of Venues
+* Budget tracking and Expense Management 
+
 
 # Course Overview
 * Basic React Native Components
@@ -19,13 +19,13 @@ TechFolio Mobile App.
 * HTML, CSS and JS
 
 # Home Screen
-<img src="assets/images/screenshot/onboarding.png">  
+<img src="assets/Screenshot/S1.png">  
 
 # Sign Up Screen
-<img src="assets/images/screenshot/signup.png">  
+<img src="assets/Screenshot/S2.png">  
 
 # Sign In Screen
-<img src="assets/images/screenshot/login.png">  
+<img src="assets/Screenshot/S3.png">  
 
 # Tabs Screen
-<img src="assets/images/screenshot/tabs.png">  
+<img src="assets/Screenshot/S4.png">  
